@@ -63,4 +63,5 @@ typings/
 .env
 
 # Custom
+.prettierignore
 README.example.md
